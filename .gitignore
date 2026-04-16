@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+appsettings.Development.json
+
+# Node
+taskflow-ui/node_modules/
+taskflow-ui/dist/
+
+# Environment
+.env
+*.env
